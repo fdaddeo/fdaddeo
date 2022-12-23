@@ -18,6 +18,7 @@ I'm a IT engineering student at the University of Parma.
 - AMPL
 - Objective-C
 - C#
+- Arduino
 - HTML
 - CSS
 - JavaScript
