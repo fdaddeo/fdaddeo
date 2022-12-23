@@ -15,6 +15,7 @@ I'm a IT engineering student at the University of Parma.
 - Java
 - Python
 - PyTorch
+- AMPL
 - Objective-C
 - C#
 - HTML
