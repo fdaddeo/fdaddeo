@@ -16,6 +16,7 @@ I'm a ICT engineer student at the University of Parma.
 - Java
 - Python
 - PyTorch
+- Keras
 - AMPL
 - Objective-C
 - C#
