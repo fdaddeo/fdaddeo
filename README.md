@@ -3,9 +3,9 @@
 # About me
 I'm a ICT engineer student at the University of Parma.
 
-- 🔭 I'm currently learning the basis of Artificial Vision, Deep Learning and Robotics.
-- 🕹️ I'm currently working on some projects with Unity 3D
-- 🎯 I have partecipated to the Cyberchallenge2022 
+- 🔭 I'm currently learning the basis of Artificial Vision, Deep Learning, Robotics and Autonomous Driving.
+- 🕹️ I'm currently working my master of science thesis.
+- 🎯 I have partecipated to the Cyberchallenge2022.
 - 📫 How to reach me: filippo.daddeo@studenti.unipr.it
 - ⚡ Fun fact: EssereFerrari 🏎️ 
 
