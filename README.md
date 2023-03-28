@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Filippo
 
 # About me
-I'm a ICT engineer student at the University of Parma.
+I'm a Computer Science Engineer student at the University of Parma.
 
 - 🔭 I'm currently learning the basis of Artificial Vision, Deep Learning, Robotics and Autonomous Driving.
 - 🕹️ I'm currently working on my Master of Science thesis.
