@@ -16,7 +16,8 @@ I'm a Computer Science Engineer student at the University of Parma.
 - Java
 - Python
 - PyTorch
-- Keras
+- Haskell
+- Rust
 - AMPL
 - Objective-C
 - C#
