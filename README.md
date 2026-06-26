@@ -4,7 +4,7 @@
 I'm a Ph.D. student in Automotive Engineering for Intelligent Mobility at the University of Bologna.
 
 - 🕹️ I'm currently working on my Ph.D. thesis in Deep Learning-based Multi-Modal Sensor Fusion for Autonomous Driving.
-- 🎯 I earned my Ms.C. in Informatics Engineering from the University of Parma with grade 110 cum Laude.
+- 🎯 I earned my M.Sc. in Informatics Engineering from the University of Parma with grade 110 cum Laude.
 - 📫 How to reach me: filo.dadde99@gmail.it
 - ⚡ Fun fact: EssereFerrari 🏎️ 
 
