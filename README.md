@@ -1,34 +1,20 @@
 # Hi there 👋, my name is Filippo
 
 # About me
-I'm a Computer Science Engineer student at the University of Parma.
+I'm a Ph.D. student in Automotive Engineering for Intelligent Mobility at the University of Bologna.
 
-- 🔭 I'm currently learning the basis of Artificial Vision, Deep Learning, Robotics and Autonomous Driving.
-- 🕹️ I'm currently working on my Master of Science thesis.
-- 🎯 I have partecipated to the Cyberchallenge2022.
-- 📫 How to reach me: filippo.daddeo@studenti.unipr.it
+- 🕹️ I'm currently working on my Ph.D. thesis in Deep Learning-based Multi-Modal Sensor Fusion for Autonomous Driving.
+- 🎯 I earned my Ms.C. in Informatics Engineering from the University of Parma with grade 110 cum Laude.
+- 📫 How to reach me: filo.dadde99@gmail.it
 - ⚡ Fun fact: EssereFerrari 🏎️ 
 
 ## 💻 Skills and Experiences:
-- C
-- C++
-- ROS
-- Java
 - Python
+- Numpy
 - PyTorch
-- Haskell
-- Rust
-- AMPL
-- Objective-C
-- C#
-- Arduino
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- JQuery
-- PHP
-- SQL
+- PyTorch Lightning
+- C++
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fdaddeo)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/filippo_daddeo/)
